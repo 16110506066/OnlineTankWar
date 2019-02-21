@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\serviess\serviess\bin\Debug\serviess.exe.config
+C:\Users\asus\Desktop\serviess\serviess\obj\Debug\serviess.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\serviess\serviess\bin\Debug\serviess.exe
+C:\Users\asus\Desktop\serviess\serviess\bin\Debug\serviess.pdb
+C:\Users\asus\Desktop\serviess\serviess\bin\Debug\MySql.Data.dll
+C:\Users\asus\Desktop\serviess\serviess\obj\Debug\serviess.exe
+C:\Users\asus\Desktop\serviess\serviess\obj\Debug\serviess.pdb
